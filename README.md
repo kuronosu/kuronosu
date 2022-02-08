@@ -7,7 +7,7 @@
 I'm a software developer, passionate about technology, anime and games.
 Some technologies I enjoy working include Python, Django, Golang, JavaScript & ReactJS
 
-- 🌱 I’m currently learning NestJS
+- 🌱 I’m currently learning Flutter
 
 - 💬 Ask me about whatever you want. I am interested in helping and sharing.
 
